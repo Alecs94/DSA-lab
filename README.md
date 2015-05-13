@@ -61,11 +61,14 @@ Lab 8: Graphs - Graph Processing Algorithms (Dijkstra, Prim, Kursal, Floyd etc.)
 Lab 9: Test 3 - Graphs
 ```
 * [Test Skeleton project] (https://github.com/AC-2015-Sem2/DSA-lab/tree/master/Interesting%20Stuff/Graphs101%20-%20test%20skeleton)
-
+* Statistics - [complete solutions to all algorithms and grades distributions] (https://github.com/AC-2015-Sem2/DSA-lab/tree/master/Tests/T3%20-%20Graphs)
 ```
 Lab 10: Hash Tables - introduction, collision detection, usages
 ```
-* Assignments 7: TBA
+* Assignments 7:
+	- [Meta-instructions] (https://github.com/AC-2015-Sem2/DSA-lab/tree/master/Assignments/Assignment%207)
+	- [Hash Tables - Open Addressing] (https://github.com/AC-2015-Sem2/DSA-lab/tree/master/Assignments/Assignment%207/Assignment%207.1%20-%20Hash%20Tables%20-%20Open%20Addressing)
+	- [Hash Tables - Chaining] (https://github.com/AC-2015-Sem2/DSA-lab/tree/master/Assignments/Assignment%207/Assignment%207.2%20-%20Hash%20Tables%20-%20Chaining)
 
 
 ```
@@ -74,7 +77,7 @@ Lab 11: Sorting Algorithms - Bubble, Insertion, Selection, Merge, Quick, Radix.
 * Assignments 8: TBA
 
 ```
-Lab 12: Test 4 - Sorting Algorithms
+Lab 12: Test 4 - Sorting Algorithms & Hash Tables
 ```
 * Assignments: none
 
